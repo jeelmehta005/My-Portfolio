@@ -1,0 +1,22 @@
+[
+   {
+    "name": "Digital Clock",
+    "desc": "this is a digital clock.",
+    "image": "PROJECT001",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "weather",
+    "desc": "this is a real weather.",
+    "image": "PROJECT002",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  }
+]

@@ -5,7 +5,7 @@
     "image": "PROJECT001",
     "category": "mern",
     "links": {
-      "view": "merry-cranachan-199149.netlify.app",
+      "view": "https://merry-cranachan-199149.netlify.app/",
       "code": "https://github.com/jeelmehta005/Digi-Clock"
     }
   },
@@ -15,7 +15,7 @@
     "image": "PROJECT002",
     "category": "mern",
     "links": {
-      "view": "indianweather.netlify.app",
+      "view": "https://indianweather.netlify.app/",
       "code": "https://github.com/jeelmehta005/Weather"
     }
   }

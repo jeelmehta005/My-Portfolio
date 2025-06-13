@@ -5,8 +5,8 @@
     "image": "PROJECT001",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "digi-clockcom.vercel.app",
+      "code": "https://github.com/jeelmehta005/Digi-Clock"
     }
   },
   {
@@ -15,8 +15,8 @@
     "image": "PROJECT002",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "weathercom.vercel.app",
+      "code": "https://github.com/jeelmehta005/Weather"
     }
   }
 ]
